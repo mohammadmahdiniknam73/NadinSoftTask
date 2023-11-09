@@ -521,11 +521,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Project\\ASP.net\\MohammadMahdiNiknam\\NadinSoftTask\\NadinSoft.API\\NadinSoft.API.csproj",
+      "projectUniqueName": "C:\\Users\\N\\source\\repos\\NadinSoftTask\\NadinSoft.API\\NadinSoft.API.csproj",
       "projectName": "NadinSoft.API",
-      "projectPath": "F:\\Project\\ASP.net\\MohammadMahdiNiknam\\NadinSoftTask\\NadinSoft.API\\NadinSoft.API.csproj",
+      "projectPath": "C:\\Users\\N\\source\\repos\\NadinSoftTask\\NadinSoft.API\\NadinSoft.API.csproj",
       "packagesPath": "C:\\Users\\N\\.nuget\\packages\\",
-      "outputPath": "F:\\Project\\ASP.net\\MohammadMahdiNiknam\\NadinSoftTask\\NadinSoft.API\\obj\\",
+      "outputPath": "C:\\Users\\N\\source\\repos\\NadinSoftTask\\NadinSoft.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -547,14 +547,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "F:\\Project\\ASP.net\\MohammadMahdiNiknam\\NadinSoftTask\\NadinSoft.Application\\NadinSoft.Application.csproj": {
-              "projectPath": "F:\\Project\\ASP.net\\MohammadMahdiNiknam\\NadinSoftTask\\NadinSoft.Application\\NadinSoft.Application.csproj"
+            "C:\\Users\\N\\source\\repos\\NadinSoftTask\\NadinSoft.Application\\NadinSoft.Application.csproj": {
+              "projectPath": "C:\\Users\\N\\source\\repos\\NadinSoftTask\\NadinSoft.Application\\NadinSoft.Application.csproj"
             },
-            "F:\\Project\\ASP.net\\MohammadMahdiNiknam\\NadinSoftTask\\NadinSoft.Domain\\NadinSoft.Domain.csproj": {
-              "projectPath": "F:\\Project\\ASP.net\\MohammadMahdiNiknam\\NadinSoftTask\\NadinSoft.Domain\\NadinSoft.Domain.csproj"
+            "C:\\Users\\N\\source\\repos\\NadinSoftTask\\NadinSoft.Domain\\NadinSoft.Domain.csproj": {
+              "projectPath": "C:\\Users\\N\\source\\repos\\NadinSoftTask\\NadinSoft.Domain\\NadinSoft.Domain.csproj"
             },
-            "F:\\Project\\ASP.net\\MohammadMahdiNiknam\\NadinSoftTask\\NadinSoft.Infrastructure\\NadinSoft.Infrastructure.csproj": {
-              "projectPath": "F:\\Project\\ASP.net\\MohammadMahdiNiknam\\NadinSoftTask\\NadinSoft.Infrastructure\\NadinSoft.Infrastructure.csproj"
+            "C:\\Users\\N\\source\\repos\\NadinSoftTask\\NadinSoft.Infrastructure\\NadinSoft.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\N\\source\\repos\\NadinSoftTask\\NadinSoft.Infrastructure\\NadinSoft.Infrastructure.csproj"
             }
           }
         }

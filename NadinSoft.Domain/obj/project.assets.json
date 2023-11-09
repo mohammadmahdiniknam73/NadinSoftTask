@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Project\\ASP.net\\MohammadMahdiNiknam\\NadinSoftTask\\NadinSoft.Domain\\NadinSoft.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\N\\source\\repos\\NadinSoftTask\\NadinSoft.Domain\\NadinSoft.Domain.csproj",
       "projectName": "NadinSoft.Domain",
-      "projectPath": "F:\\Project\\ASP.net\\MohammadMahdiNiknam\\NadinSoftTask\\NadinSoft.Domain\\NadinSoft.Domain.csproj",
+      "projectPath": "C:\\Users\\N\\source\\repos\\NadinSoftTask\\NadinSoft.Domain\\NadinSoft.Domain.csproj",
       "packagesPath": "C:\\Users\\N\\.nuget\\packages\\",
-      "outputPath": "F:\\Project\\ASP.net\\MohammadMahdiNiknam\\NadinSoftTask\\NadinSoft.Domain\\obj\\",
+      "outputPath": "C:\\Users\\N\\source\\repos\\NadinSoftTask\\NadinSoft.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
