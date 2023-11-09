@@ -10,7 +10,7 @@ namespace NadinSoft.Domain.Products
     {
         public ProductId Id { get; private set; }
         public string Name { get;  private set; }
-        public ProductDate ProduceDate { get; private set; }
+        public DateOnly ProduceDate { get; private set; }
         public string ManufactureEmail { get; set; }
         public string ManufacturePhone { get; set; }
         public bool IsAvailable { get; set; }
