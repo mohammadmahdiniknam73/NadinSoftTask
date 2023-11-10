@@ -17,6 +17,14 @@ namespace NadinSoft.Infrastructure.Configurations
                 productId => productId.Value,
                 value => new ProductId(value));
 
+            builder.Property(p => p.ProduceDate).IsRequired();
+
+            builder.Property(p => p.ManufactureEmail).IsRequired();
+
+            builder.Property(p => p.ManufacturePhone).IsRequired();
+
+            builder.Property(p => p.IsAvailable).IsRequired();
+
         }
     }
 }
